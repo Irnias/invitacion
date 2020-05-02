@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           La noche nos espera una vez mas, los esperamos a todos el proximo sabado para una velada virtual en comunidad.
+          Test
         </p>
       
       </header>
